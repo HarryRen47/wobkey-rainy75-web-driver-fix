@@ -1,6 +1,6 @@
 # WOBKEY 网页驱动修复（macOS）
 
-让 WOBKEY 键盘在 **macOS** 上正常使用官方网页驱动 <https://www.wobwxe.com/>。
+让 WOBKEY 键盘（已验证 **Rainy75**，同协议的 Rainy 98 / Zen 65 等可扩展）在 **macOS** 上正常使用官方网页驱动 <https://www.wobwxe.com/>。
 
 官方网页驱动的前端有几个写死的 bug，只在 macOS 上暴露：连接后界面没反应、
 首页设备卡片不出现、「灯光设置」「扩展字符」页面打不开。
