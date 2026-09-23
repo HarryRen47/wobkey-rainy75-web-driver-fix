@@ -22,8 +22,8 @@
 ### 第 1 步：拿到本项目
 
 ```bash
-git clone https://github.com/HarryRen47/wobkey-web-driver-fix.git
-cd wobkey-web-driver-fix
+git clone https://github.com/HarryRen47/wobkey-rainy75-web-driver-fix.git
+cd wobkey-rainy75-web-driver-fix
 ```
 
 （也可以直接下载 ZIP 解压。）
