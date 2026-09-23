@@ -22,7 +22,7 @@
 ### 第 1 步：拿到本项目
 
 ```bash
-git clone <本仓库地址>
+git clone https://github.com/HarryRen47/wobkey-web-driver-fix.git
 cd wobkey-web-driver-fix
 ```
 
